@@ -1,5 +1,7 @@
 # anapa
 Simplify your shopping experience with ANAPA, a React and TailwindCSS-powered apparel store. Browse through stylish samples with ease. 🛍️👗👟
+
+
 Live Demo: https://anapa.vercel.app/
 
 ![image](https://github.com/oviozz/anapa/assets/42685801/0b479ffb-d996-4486-888e-b4f3ec47b8a9)
